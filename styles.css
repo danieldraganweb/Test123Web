@@ -1,0 +1,8 @@
+body {
+    background: teal;     /* red, blue, yellow, etc */
+    color: black;             /* red, blue, yellow, etc */
+    font-size: 30px;        /* 0px - 100px and beyond */
+    font-weight: lighter;   /* lighter, normal, bold  */
+    text-align: center;      /* left, center or right  */ 
+    margin-top: 10px;        /* From 0px and upwards   */
+}
